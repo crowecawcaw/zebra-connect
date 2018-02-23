@@ -1,9 +1,9 @@
 {
-  "name": "zebra-printer",
-  "version": "1.0.0",
-  "main": "dist/zebra-printer.cjs.js",
-  "module": "dist/zebra-printer.esm.js",
-  "browser": "dist/zebra-printer.umd.js",
+  "name": "zebra-connect",
+  "version": "0.0.1",
+  "main": "dist/zebra-connect.cjs.js",
+  "module": "dist/zebra-connect.esm.js",
+  "browser": "dist/zebra-connect.umd.js",
   "dependencies": {
   },
   "devDependencies": {
